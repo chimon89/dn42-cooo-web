@@ -22,10 +22,12 @@ AS4242423868 @ DN42
 
 ![INET](https://dl.chimon.work/img/cooo_net_inet.png)
 
-### 网络前缀
+### 路由路径图
 
 - 172.21.65.160/27
 - fdc4:c9b0:e83e::/48
+
+  ![router-pathimg](https://dl.chimon.work/img/photo_2022-05-31_15-51-54.jpg)
 
 ### 对等政策
 
