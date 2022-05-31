@@ -91,3 +91,5 @@
 | Endpoint IPv6     | 2605:6400:20:1bb7::1                         |
 | ZT ID             | <协商>                                       |
 | Bandwidth         | 1Gbps                                        |
+
+[1] 端口号默认为您的 ASN 后五位
