@@ -12,6 +12,7 @@
         </li>
         <li><router-link :class="$route.path === '/home' ? 'active': ''" to="/home">主页</router-link></li>
         <li><router-link :class="$route.path === '/nodes' ? 'active': ''" to="/nodes">节点信息</router-link></li>
+        <li><a class="link" href="https://stats.uptimerobot.com/gyMp8cqq10" target="_blank">节点状态</a></li>
         <li class="menu-title">
           <span>服务</span>
         </li>
