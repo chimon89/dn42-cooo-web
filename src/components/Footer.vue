@@ -1,7 +1,7 @@
 <template>
   <footer class="footer items-center p-4 bg-base-200">
     <div class="items-center grid-flow-col">
-      <p>Copyright © 2022 <span class="badge rounded-none">AS4242423868</span> - All right reserved</p>
+      <p>© CHIMON TECHNOLOGY LTD 2022</p>
     </div>
     <div class="grid-flow-col gap-4 md:place-self-center md:justify-self-end">
       <a href="https://github.com/chimon89/dn42-cooo-web" target="_blank">
